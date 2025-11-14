@@ -9,7 +9,7 @@ email=wendy.laurent@orleans-metropole.fr
 about=palantir est un plugin qui permet d'appliquer un filtre par datation et/ou thématique à une couche vecteur du projet. Le filtre est dynamique et permet une visualisation simplifiée des données. Le champs date doit être sous le format AAAA. 
 
 tracker=http://bugs
-repository=http://repo
+repository=https://github.com/WendyLAURENT/Palantir
 # End of mandatory metadata
 
 # Recommended items:
