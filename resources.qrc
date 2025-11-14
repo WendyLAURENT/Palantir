@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/Filtre_Date" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>

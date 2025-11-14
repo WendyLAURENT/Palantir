@@ -1,0 +1,36 @@
+[general]
+name=Filtre Palantir
+qgisMinimumVersion=3.0
+description=Filtre une couche avec des champs de date de création et de destruction
+version=1.0
+author=Wendy Laurent (Ville d'Orléans) avec la contribution de Julien Courtois (Ville d'Orléans), Mélanie Fondrillon (Communauté d’agglomération Bourges Plus), Anaïs Pinhède (Chartres Métropole) et Xavier Rolland (Communauté d’agglomération Bourges Plus)
+email=wendy.laurent@orleans-metropole.fr
+
+about=palantir est un plugin qui permet d'appliquer un filtre par datation et/ou thématique à une couche vecteur du projet. Le filtre est dynamique et permet une visualisation simplifiée des données. Le champs date doit être sous le format AAAA. 
+
+tracker=http://bugs
+repository=http://repo
+# End of mandatory metadata
+
+# Recommended items:
+
+hasProcessingProvider=no
+# Uncomment the following line and add your changelog:
+# changelog=
+
+# Tags are comma separated with spaces allowed
+tags=filtre, datation, thématique
+
+homepage=http://homepage
+category=Plugins
+icon=icon.png
+experimental=True
+deprecated=False
+
+
+#Category of the plugin: Raster, Vector, Database or Web
+#category=
+
+# If the plugin can run on QGIS Server.
+server=False
+
